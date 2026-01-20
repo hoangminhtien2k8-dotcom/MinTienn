@@ -4,4 +4,13 @@ h1 {
 .tieude {
   color: tomato;
   font-weigth: bold;
+  font-size: 20pt;
+}
+.noidung {
+  color: black;
+  font-style: normal;
+  font-size: 14pt;
+}
+
+  
   
