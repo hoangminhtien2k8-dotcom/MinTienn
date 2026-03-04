@@ -10,7 +10,7 @@
     aspect-ratio: 6/1;
 }
 .menu{
-    flex: 5%
+    flex: 5%;
     background-color: pink;
     display: flex ;
     align-items; center;
@@ -23,7 +23,7 @@
    background-color: lightgray;
    color: black;
 .content{
-    flex: 70%
+    flex: 70%;
     background-color: white;
 }
    .content iframe{
@@ -33,7 +33,7 @@
    height: 100%;
    }
 .footer{
-    flex: 5%
+    flex: 5%;
     background-color: lightgray;
 }
 h1 {
