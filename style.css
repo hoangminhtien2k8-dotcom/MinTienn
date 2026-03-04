@@ -3,12 +3,6 @@
    flex-direction: column;
    height: 100vh;
 }
-.content iframe{
-   flex: 1;
-   border: none;
-   width: 100%;
-   height: 100%;
-}
 .header{
     flex: 20%;
     background-color: lightgray;
@@ -18,21 +12,29 @@
 .menu{
     flex: 5%
     background-color: pink;
+    display: flex ;
+    align-items; center;
 }
 .menu a{
    padding: 15px 20px;
-   color: purple;
+   color: blue;
 }
 .menu hover{
-   background-color: purple;
-   color: pink;
+   background-color: lightgray;
+   color: black;
 .content{
     flex: 70%
-    background-color: blue;
+    background-color: white;
 }
+   .content iframe{
+   flex: 1;
+   border: none;
+   width: 100%;
+   height: 100%;
+   }
 .footer{
     flex: 5%
-    background-color: orange;
+    background-color: lightgray;
 }
 h1 {
   color: red;
@@ -47,6 +49,5 @@ h1 {
   font-style: normal;
   font-size: 14pt;
 }
-
   
   
